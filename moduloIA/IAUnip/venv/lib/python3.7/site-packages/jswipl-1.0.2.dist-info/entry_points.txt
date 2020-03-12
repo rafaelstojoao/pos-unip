@@ -1,0 +1,3 @@
+[console_scripts]
+jswiplkernel = jswipl.jupyter:main
+
