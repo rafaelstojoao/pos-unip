@@ -13,3 +13,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+
+# Materiais das aulas da MBA em data mining 
+## Módulo 1 - Intelência Artificial.
+## Aula 01:
+### Itens discutidos.
+- Introdução à Inteligência Artificial
