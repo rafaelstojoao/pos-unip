@@ -1,0 +1,15 @@
+aspecto,temp,umidade,vento,jogo
+sol,quente,alta,nao,nAo
+sol,quente,alta,sim,nAo
+nublado,quente,alta,nao,Sim
+chuva,media,alta,nao,Sim
+chuva,cool,normal,nao,Sim
+chuva,cool,normal,sim,nAo
+nublado,cool,normal,sim,Sim
+sol,media,alta,nao,nAo
+sol,cool,normal,nao,Sim
+chuva,media,normal,nao,Sim
+sol,media,normal,sim,Sim
+nublado,media,alta,sim,Sim
+nublado,quente,normal,nao,Sim
+chuva,media,alta,sim,nAo
