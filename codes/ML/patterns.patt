@@ -1,0 +1,64 @@
+['A'] support: 1.0
+['B'] support: 0.6
+['C'] support: 1.0
+['D'] support: 0.8
+['E'] support: 0.4
+['A', 'B'] support: 0.6
+['A', 'C'] support: 1.0
+['A', 'D'] support: 0.8
+['A', 'E'] support: 0.4
+['B', 'C'] support: 0.6
+['B', 'D'] support: 0.4
+['B', 'E'] support: 0.2
+['C', 'D'] support: 0.8
+['C', 'E'] support: 0.4
+['D', 'E'] support: 0.4
+['A', 'B', 'C'] support: 0.6
+['A', 'B', 'D'] support: 0.4
+['A', 'B', 'E'] support: 0.2
+['A', 'C', 'D'] support: 0.8
+['A', 'C', 'E'] support: 0.4
+['A', 'D', 'E'] support: 0.4
+['B', 'C', 'D'] support: 0.4
+['B', 'C', 'E'] support: 0.2
+['B', 'D', 'E'] support: 0.2
+['C', 'D', 'E'] support: 0.4
+['A', 'B', 'C', 'D'] support: 0.4
+['A', 'B', 'C', 'E'] support: 0.2
+['A', 'B', 'D', 'E'] support: 0.2
+['A', 'C', 'D', 'E'] support: 0.4
+['B', 'C', 'D', 'E'] support: 0.2
+['A', 'B', 'C', 'D', 'E'] support: 0.2
+['leite'] support: 0.42857142857142855
+['mortadela'] support: 0.7142857142857143
+['muçarela'] support: 0.5714285714285714
+['ovo'] support: 0.14285714285714285
+['presunto'] support: 0.5714285714285714
+['pão'] support: 0.8571428571428571
+['leite', 'mortadela'] support: 0.2857142857142857
+['leite', 'muçarela'] support: 0.14285714285714285
+['leite', 'ovo'] support: 0.14285714285714285
+['leite', 'presunto'] support: 0.2857142857142857
+['leite', 'pão'] support: 0.2857142857142857
+['mortadela', 'muçarela'] support: 0.42857142857142855
+['mortadela', 'presunto'] support: 0.42857142857142855
+['mortadela', 'pão'] support: 0.7142857142857143
+['muçarela', 'presunto'] support: 0.42857142857142855
+['muçarela', 'pão'] support: 0.5714285714285714
+['presunto', 'pão'] support: 0.5714285714285714
+['leite', 'mortadela', 'muçarela'] support: 0.14285714285714285
+['leite', 'mortadela', 'presunto'] support: 0.2857142857142857
+['leite', 'mortadela', 'pão'] support: 0.2857142857142857
+['leite', 'muçarela', 'presunto'] support: 0.14285714285714285
+['leite', 'muçarela', 'pão'] support: 0.14285714285714285
+['leite', 'presunto', 'pão'] support: 0.2857142857142857
+['mortadela', 'muçarela', 'presunto'] support: 0.2857142857142857
+['mortadela', 'muçarela', 'pão'] support: 0.42857142857142855
+['mortadela', 'presunto', 'pão'] support: 0.42857142857142855
+['muçarela', 'presunto', 'pão'] support: 0.42857142857142855
+['leite', 'mortadela', 'muçarela', 'presunto'] support: 0.14285714285714285
+['leite', 'mortadela', 'muçarela', 'pão'] support: 0.14285714285714285
+['leite', 'mortadela', 'presunto', 'pão'] support: 0.2857142857142857
+['leite', 'muçarela', 'presunto', 'pão'] support: 0.14285714285714285
+['mortadela', 'muçarela', 'presunto', 'pão'] support: 0.2857142857142857
+['leite', 'mortadela', 'muçarela', 'presunto', 'pão'] support: 0.14285714285714285

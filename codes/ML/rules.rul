@@ -1,0 +1,52 @@
+['A']-->['C']sup: 1.0 conf:1.0lift: 1.0conviction: 0.0
+['A']-->['D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['B']-->['C']sup: 0.6 conf:1.0lift: 1.0conviction: 0.0
+['C']-->['D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['A', 'B']-->['C']sup: 0.6 conf:1.0lift: 1.0conviction: 0.0
+['A']-->['C', 'D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['A', 'C']-->['D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['A']-->['C']sup: 1.0 conf:1.0lift: 1.0conviction: 0.0
+['B']-->['C']sup: 0.6 conf:1.0lift: 1.0conviction: 0.0
+['A', 'B']-->['C']sup: 0.6 conf:1.0lift: 1.0conviction: 0.0
+['A']-->['C']sup: 1.0 conf:1.0lift: 1.0conviction: 0.0
+['A']-->['D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['B']-->['C']sup: 0.6 conf:1.0lift: 1.0conviction: 0.0
+['C']-->['D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['A', 'B']-->['C']sup: 0.6 conf:1.0lift: 1.0conviction: 0.0
+['A']-->['C', 'D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['A', 'C']-->['D']sup: 0.8 conf:0.8lift: 1.0conviction: 1.0
+['leite']-->['mortadela']sup: 0.2857142857142857 conf:0.667lift: 0.933conviction: 0.858
+['leite']-->['presunto']sup: 0.2857142857142857 conf:0.667lift: 1.167conviction: 1.287
+['leite']-->['pão']sup: 0.2857142857142857 conf:0.667lift: 0.778conviction: 0.429
+['mortadela']-->['muçarela']sup: 0.42857142857142855 conf:0.6lift: 1.05conviction: 1.071
+['mortadela']-->['presunto']sup: 0.42857142857142855 conf:0.6lift: 1.05conviction: 1.071
+['mortadela']-->['pão']sup: 0.7142857142857143 conf:1.0lift: 1.167conviction: 0.0
+['muçarela']-->['presunto']sup: 0.42857142857142855 conf:0.75lift: 1.312conviction: 1.714
+['muçarela']-->['pão']sup: 0.5714285714285714 conf:1.0lift: 1.167conviction: 0.0
+['presunto']-->['pão']sup: 0.5714285714285714 conf:1.0lift: 1.167conviction: 0.0
+['leite']-->['mortadela', 'presunto']sup: 0.2857142857142857 conf:0.667lift: 1.556conviction: 1.716
+['leite', 'mortadela']-->['presunto']sup: 0.2857142857142857 conf:1.0lift: 1.75conviction: 0.0
+['leite']-->['mortadela', 'pão']sup: 0.2857142857142857 conf:0.667lift: 0.933conviction: 0.858
+['leite', 'mortadela']-->['pão']sup: 0.2857142857142857 conf:1.0lift: 1.167conviction: 0.0
+['leite', 'muçarela']-->['presunto']sup: 0.14285714285714285 conf:1.0lift: 1.75conviction: 0.0
+['leite', 'muçarela']-->['pão']sup: 0.14285714285714285 conf:1.0lift: 1.167conviction: 0.0
+['leite']-->['presunto', 'pão']sup: 0.2857142857142857 conf:0.667lift: 1.167conviction: 1.287
+['leite', 'presunto']-->['pão']sup: 0.2857142857142857 conf:1.0lift: 1.167conviction: 0.0
+['mortadela', 'muçarela']-->['presunto']sup: 0.2857142857142857 conf:0.667lift: 1.167conviction: 1.287
+['mortadela']-->['muçarela', 'pão']sup: 0.42857142857142855 conf:0.6lift: 1.05conviction: 1.071
+['mortadela', 'muçarela']-->['pão']sup: 0.42857142857142855 conf:1.0lift: 1.167conviction: 0.0
+['mortadela']-->['presunto', 'pão']sup: 0.42857142857142855 conf:0.6lift: 1.05conviction: 1.071
+['mortadela', 'presunto']-->['pão']sup: 0.42857142857142855 conf:1.0lift: 1.167conviction: 0.0
+['muçarela']-->['presunto', 'pão']sup: 0.42857142857142855 conf:0.75lift: 1.312conviction: 1.714
+['muçarela', 'presunto']-->['pão']sup: 0.42857142857142855 conf:1.0lift: 1.167conviction: 0.0
+['leite', 'mortadela', 'muçarela']-->['presunto']sup: 0.14285714285714285 conf:1.0lift: 1.75conviction: 0.0
+['leite', 'mortadela', 'muçarela']-->['pão']sup: 0.14285714285714285 conf:1.0lift: 1.167conviction: 0.0
+['leite']-->['mortadela', 'presunto', 'pão']sup: 0.2857142857142857 conf:0.667lift: 1.556conviction: 1.716
+['leite', 'mortadela']-->['presunto', 'pão']sup: 0.2857142857142857 conf:1.0lift: 1.75conviction: 0.0
+['leite', 'mortadela', 'presunto']-->['pão']sup: 0.2857142857142857 conf:1.0lift: 1.167conviction: 0.0
+['leite', 'muçarela']-->['presunto', 'pão']sup: 0.14285714285714285 conf:1.0lift: 1.75conviction: 0.0
+['leite', 'muçarela', 'presunto']-->['pão']sup: 0.14285714285714285 conf:1.0lift: 1.167conviction: 0.0
+['mortadela', 'muçarela']-->['presunto', 'pão']sup: 0.2857142857142857 conf:0.667lift: 1.167conviction: 1.287
+['mortadela', 'muçarela', 'presunto']-->['pão']sup: 0.2857142857142857 conf:1.0lift: 1.167conviction: 0.0
+['leite', 'mortadela', 'muçarela']-->['presunto', 'pão']sup: 0.14285714285714285 conf:1.0lift: 1.75conviction: 0.0
+['leite', 'mortadela', 'muçarela', 'presunto']-->['pão']sup: 0.14285714285714285 conf:1.0lift: 1.167conviction: 0.0
