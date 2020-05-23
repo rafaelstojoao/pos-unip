@@ -1,62 +1,36 @@
-['A'] suporte: 1.0
-['B'] suporte: 0.6
-['C'] suporte: 1.0
-['D'] suporte: 0.8
-['E'] suporte: 0.4
-['A', 'B'] suporte: 0.6
-['A', 'C'] suporte: 1.0
-['A', 'D'] suporte: 0.8
-['A', 'E'] suporte: 0.4
-['B', 'C'] suporte: 0.6
-['B', 'D'] suporte: 0.4
-['B', 'E'] suporte: 0.2
-['C', 'D'] suporte: 0.8
-['C', 'E'] suporte: 0.4
-['D', 'E'] suporte: 0.4
-['A', 'B', 'C'] suporte: 0.6
-['A', 'B', 'D'] suporte: 0.4
-['A', 'B', 'E'] suporte: 0.2
-['A', 'C', 'D'] suporte: 0.8
-['A', 'C', 'E'] suporte: 0.4
-['A', 'D', 'E'] suporte: 0.4
-['B', 'C', 'D'] suporte: 0.4
-['B', 'C', 'E'] suporte: 0.2
-['B', 'D', 'E'] suporte: 0.2
-['C', 'D', 'E'] suporte: 0.4
-['A', 'B', 'C', 'D'] suporte: 0.4
-['A', 'B', 'C', 'E'] suporte: 0.2
-['A', 'B', 'D', 'E'] suporte: 0.2
-['A', 'C', 'D', 'E'] suporte: 0.4
-['B', 'C', 'D', 'E'] suporte: 0.2
-['A', 'B', 'C', 'D', 'E'] suporte: 0.2
-['A'] suporte: 1.0
-['B'] suporte: 0.6
-['C'] suporte: 1.0
-['D'] suporte: 0.8
-['E'] suporte: 0.4
-['A', 'B'] suporte: 0.6
-['A', 'C'] suporte: 1.0
-['A', 'D'] suporte: 0.8
-['A', 'E'] suporte: 0.4
-['B', 'C'] suporte: 0.6
-['B', 'D'] suporte: 0.4
-['B', 'E'] suporte: 0.2
-['C', 'D'] suporte: 0.8
-['C', 'E'] suporte: 0.4
-['D', 'E'] suporte: 0.4
-['A', 'B', 'C'] suporte: 0.6
-['A', 'B', 'D'] suporte: 0.4
-['A', 'B', 'E'] suporte: 0.2
-['A', 'C', 'D'] suporte: 0.8
-['A', 'C', 'E'] suporte: 0.4
-['A', 'D', 'E'] suporte: 0.4
-['B', 'C', 'D'] suporte: 0.4
-['B', 'C', 'E'] suporte: 0.2
-['B', 'D', 'E'] suporte: 0.2
-['C', 'D', 'E'] suporte: 0.4
-['A', 'B', 'C', 'D'] suporte: 0.4
-['A', 'B', 'C', 'E'] suporte: 0.2
-['A', 'B', 'D', 'E'] suporte: 0.2
-['A', 'C', 'D', 'E'] suporte: 0.4
-['B', 'C', 'D', 'E'] suporte: 0.2
-['A', 'B', 'C', 'D', 'E'] suporte: 0.2
+['MD01'] suporte: 0.3125
+['MD06'] suporte: 0.3125
+['MD08'] suporte: 0.375
+['MD09'] suporte: 0.125
+['MD14'] suporte: 0.125
+['MD15'] suporte: 0.125
+['MD19'] suporte: 0.125
+['MD21'] suporte: 0.125
+['MD22'] suporte: 0.25
+['MD26'] suporte: 0.375
+['MD30'] suporte: 0.125
+['MD34'] suporte: 0.1875
+['MD35'] suporte: 0.25
+['MD38'] suporte: 0.125
+['MD39'] suporte: 0.125
+['MD01', 'MD06'] suporte: 0.25
+['MD01', 'MD08'] suporte: 0.125
+['MD01', 'MD22'] suporte: 0.125
+['MD06', 'MD08'] suporte: 0.1875
+['MD06', 'MD09'] suporte: 0.125
+['MD06', 'MD22'] suporte: 0.125
+['MD06', 'MD34'] suporte: 0.125
+['MD06', 'MD35'] suporte: 0.125
+['MD08', 'MD09'] suporte: 0.125
+['MD08', 'MD26'] suporte: 0.1875
+['MD08', 'MD35'] suporte: 0.125
+['MD19', 'MD22'] suporte: 0.125
+['MD26', 'MD38'] suporte: 0.125
+['MD26', 'MD39'] suporte: 0.125
+['MD34', 'MD35'] suporte: 0.1875
+['MD38', 'MD39'] suporte: 0.125
+['MD01', 'MD06', 'MD08'] suporte: 0.125
+['MD01', 'MD06', 'MD22'] suporte: 0.125
+['MD06', 'MD08', 'MD09'] suporte: 0.125
+['MD06', 'MD34', 'MD35'] suporte: 0.125
+['MD26', 'MD38', 'MD39'] suporte: 0.125
