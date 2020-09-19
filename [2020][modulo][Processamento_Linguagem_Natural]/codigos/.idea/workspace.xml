@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c225dc-d5d4-4d3a-81cf-42a7d3e0e218" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.~lock.[aula]01[Intro].odp#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codigos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codigos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.~lock.[aula]02[classificacao].odp#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[aula]02[classificacao].odp" beforeDir="false" afterPath="$PROJECT_DIR$/../[aula]02[classificacao].odp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entidades.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade 1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade 2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bagOfWords.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entrada.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nltkSumarização.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noticiacorona.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/novoTexto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuvemDeTags.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spacy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumarização com spacy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testesnltk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf-idf.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tokenLemmaStem.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,21 +107,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1600269482361">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1600288108083">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1600269482361" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1600269482361">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1600288108083" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1600288108082">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1600269482361" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1600269482361">
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1600288108082" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1600288108082">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1600269482360" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1600269482361">
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1600288108082" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1600288108083">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1600269482361" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1600288108083" />
   </component>
 </project>
