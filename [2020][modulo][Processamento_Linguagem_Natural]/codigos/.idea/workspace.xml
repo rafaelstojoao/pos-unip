@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c225dc-d5d4-4d3a-81cf-42a7d3e0e218" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../aula03/.idea/aula03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula03/testes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.~lock.[aula]02[classificacao].odp#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[aula]02[classificacao].odp" beforeDir="false" afterPath="$PROJECT_DIR$/../[aula]02[classificacao].odp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entidades.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividade 1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividade 2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bagOfWords.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrada.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nltkSumarização.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noticiacorona.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/novoTexto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuvemDeTags.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spacy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumarização com spacy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testesnltk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tf-idf.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tokenLemmaStem.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codes/PLN/spacy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../codes/PLN/spacy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../codes/PLN/sumarização com spacy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../codes/PLN/sumarização com spacy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +33,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.whatscooking">
+  <component name="RunManager" selected="Python.chatbot">
     <configuration name="atividade 1.ipynb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codigos" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +50,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividade 1.ipynb" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chatbot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codigos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatbot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chatbot" />
         <item itemvalue="Python.whatscooking" />
         <item itemvalue="Python.atividade 1.ipynb" />
       </list>
@@ -107,21 +120,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1600288108083">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1601692355479">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1600288108083" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1600288108082">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.742@0.0.1366.742" timestamp="1601692355479" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1601692355478">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1600288108082" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1600288108082">
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.742@0.0.1366.742" timestamp="1601692355478" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1601692355477">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1600288108082" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1600288108083">
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.742@0.0.1366.742" timestamp="1601692355477" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1601692355478">
       <screen x="0" y="0" width="1366" height="742" />
     </state>
-    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1600288108083" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.742@0.0.1366.742" timestamp="1601692355478" />
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1601674116948">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.742@0.0.1366.742" timestamp="1601674116948" />
+    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1601674116948">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.742@0.0.1366.742" timestamp="1601674116948" />
+    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1601674116947">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.742@0.0.1366.742" timestamp="1601674116947" />
+    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1601674116948">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.742@0.0.1366.742" timestamp="1601674116948" />
+    <state x="179" y="6" key="SettingsEditor" timestamp="1601691285383">
+      <screen x="0" y="0" width="1366" height="742" />
+    </state>
+    <state x="179" y="6" key="SettingsEditor/0.0.1366.742@0.0.1366.742" timestamp="1601691285383" />
   </component>
 </project>
