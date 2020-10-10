@@ -1,4 +1,6 @@
-# Scrapy settings for unipProject project
+# -*- coding: utf-8 -*-
+
+# Scrapy settings for aranhaUnip project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +9,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'unipProject'
+BOT_NAME = 'aranhaUnip'
 
-SPIDER_MODULES = ['unipProject.spiders']
-NEWSPIDER_MODULE = 'unipProject.spiders'
+SPIDER_MODULES = ['aranhaUnip.spiders']
+NEWSPIDER_MODULE = 'aranhaUnip.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'unipProject (+http://www.yourdomain.com)'
+#USER_AGENT = 'aranhaUnip (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'unipProject.middlewares.UnipprojectSpiderMiddleware': 543,
+#    'aranhaUnip.middlewares.AranhaunipSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'unipProject.middlewares.UnipprojectDownloaderMiddleware': 543,
+#    'aranhaUnip.middlewares.AranhaunipDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'unipProject.pipelines.UnipprojectPipeline': 300,
+#    'aranhaUnip.pipelines.AranhaunipPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -86,3 +88,6 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+FEED_FORMAT = "csv"
+FEED_URI = "database.csv"
