@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+import scrapy
+
+
+class AranhaUnipSpider(scrapy.Spider):
+    name = 'aranha_unip'
+  #  allowed_domains = ['http://www.vagalume.com.br']
+    start_urls = ['http://http://www.vagalume.com.br/']
+
+    def parse(self, response):
+      for title in response.css('.itemTitle'):
+            yield {'title': title.css('a ::text').get()}
+
+        for next_page in response.css('a.next-posts-link'):
+            yield response.follow(next_page, self.parse)
