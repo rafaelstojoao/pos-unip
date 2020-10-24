@@ -1,7 +1,13 @@
-import spacy
+import speech_recognition as sr
 
-nlp = spacy.load("en_core_web_sm")
-doc = nlp("Apple is looking at buying U.K. startup for $1 billion")
+r = sr.Recognizer()
 
-for ent in doc.ents:
-    print(ent.text, ent.start_char, ent.end_char, ent.label_)
+with sr.Microphone() as source:
+    print("Say something")
+    audio = r.listen(source)
+    print("Ok thx")
+
+try:
+    print("Text: " + r.recognizer_google(audio));
+except:
+    pass;
