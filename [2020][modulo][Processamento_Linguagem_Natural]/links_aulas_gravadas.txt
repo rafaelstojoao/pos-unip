@@ -10,10 +10,10 @@ Aula do dia 19/09/2020 (Classificação de textos + análise de sentimentos):
 https://drive.google.com/drive/folders/1Y8Ing-kNQSskLql-NZp1Df1-ZRDZi306?usp=sharing
 
 
-Aula do dia 03/10/2020: Web crawler + chatbot
+Aula do dia 10/10/2020: Web crawler + chatbot
 https://drive.google.com/drive/folders/1O-V9UBHNhULTLCp-8igJLoisitz3vn7T?usp=sharing
 
 
-Aula do dia 17/10/2020: Outras bibliotecas úteis
+Aula do dia 24/10/2020: Outras bibliotecas úteis
 https://drive.google.com/drive/folders/1zDLUplYxlgq79TTUAkxEjebiJ_-g-JqN?usp=sharing
 
